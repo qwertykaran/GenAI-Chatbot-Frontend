@@ -8,10 +8,13 @@
 
 This React application provides a user-friendly chat interface for the **GenAI Healthcare Chatbot** backend.  
 Users can ask healthcare-related questions and receive intelligent, context-aware responses powered by a FastAPI backend integrated with Neo4j and Hugging Face models.
+
+---
+## 📜 Certification
+
 This project was certified by **Intel**.
 
 [View Certificate (PDF)](INTEL_CERTIFICATE.pdf)
-
 
 ---
 
