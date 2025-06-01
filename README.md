@@ -12,7 +12,7 @@ Users can ask healthcare-related questions and receive intelligent, context-awar
 ---
 ## 📜 Certification
 
-This project was certified by **Intel**.
+This project was certified by **Intel®**.
 
 [View Certificate (PDF)](INTEL_CERTIFICATE.pdf)
 
