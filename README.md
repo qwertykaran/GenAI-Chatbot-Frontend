@@ -81,7 +81,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to interact 
 
 ## 📸 Screenshots
 
-![Chat Interface](./screenshots/chat-ui.png)  
+![Chat Interface](./Demo.png)  
 *Clean and modern chat UI with distinct user and bot messages.*
 
 ---
