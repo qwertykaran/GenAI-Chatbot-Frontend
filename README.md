@@ -8,6 +8,29 @@
 
 This React application provides a user-friendly chat interface for the **GenAI Healthcare Chatbot** backend.  
 Users can ask healthcare-related questions and receive intelligent, context-aware responses powered by a FastAPI backend integrated with Neo4j and Hugging Face models.
+---
+## 🛠 Tech Stack
+
+**Frontend:**  
+- React (JavaScript)
+- Axios (API requests)
+- HTML5 & CSS3 (inline styles, responsive design)
+
+**Backend:**  
+- FastAPI (Python)
+- Uvicorn (ASGI server)
+- Python-dotenv (env variable management)
+
+**Database:**  
+- Neo4j Desktop (Graph Database)
+
+**AI/NLP:**  
+- Hugging Face Transformers (flan-t5-large)
+
+**Other Tools:**  
+- Git & GitHub (version control)
+- Visual Studio Code (recommended editor)
+- REST Client (Postman or browser for API testing)
 
 ---
 ## 📜 Certification
